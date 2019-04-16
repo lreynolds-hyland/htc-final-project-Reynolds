@@ -1,0 +1,11 @@
+C:\Users\lreynolds\Desktop\htc-final-project-Reynolds\bin\Debug\netcoreapp2.2\htc-final-project-Reynolds.deps.json
+C:\Users\lreynolds\Desktop\htc-final-project-Reynolds\bin\Debug\netcoreapp2.2\htc-final-project-Reynolds.runtimeconfig.json
+C:\Users\lreynolds\Desktop\htc-final-project-Reynolds\bin\Debug\netcoreapp2.2\htc-final-project-Reynolds.runtimeconfig.dev.json
+c:\Users\lreynolds\Desktop\htc-final-project-Reynolds\bin\Debug\netcoreapp2.2\htc-final-project-Reynolds.dll
+c:\Users\lreynolds\Desktop\htc-final-project-Reynolds\bin\Debug\netcoreapp2.2\htc-final-project-Reynolds.pdb
+c:\Users\lreynolds\Desktop\htc-final-project-Reynolds\obj\Debug\netcoreapp2.2\htc-final-project-Reynolds.csprojAssemblyReference.cache
+c:\Users\lreynolds\Desktop\htc-final-project-Reynolds\obj\Debug\netcoreapp2.2\htc-final-project-Reynolds.csproj.CoreCompileInputs.cache
+c:\Users\lreynolds\Desktop\htc-final-project-Reynolds\obj\Debug\netcoreapp2.2\htc-final-project-Reynolds.AssemblyInfoInputs.cache
+c:\Users\lreynolds\Desktop\htc-final-project-Reynolds\obj\Debug\netcoreapp2.2\htc-final-project-Reynolds.AssemblyInfo.cs
+c:\Users\lreynolds\Desktop\htc-final-project-Reynolds\obj\Debug\netcoreapp2.2\htc-final-project-Reynolds.dll
+c:\Users\lreynolds\Desktop\htc-final-project-Reynolds\obj\Debug\netcoreapp2.2\htc-final-project-Reynolds.pdb

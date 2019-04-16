@@ -6,7 +6,9 @@ namespace htc_final_project_Reynolds
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Enter a number: ");
+            string w = Console.ReadLine();
+            Console.WriteLine("w);
         }
     }
 }
